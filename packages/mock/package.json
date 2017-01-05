@@ -1,6 +1,6 @@
 {
   "name": "vue-api-mock",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Vue API Mock Server",
   "main": "index.js",
   "scripts": {
